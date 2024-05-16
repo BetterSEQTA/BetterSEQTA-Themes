@@ -1,0 +1,16 @@
+{
+ "id": "913c5360-d13a-430b-bc51-a84097c04aad",
+ "name": "gif tests",
+ "description": "Very cool test of gifs!",
+ "coverImage": "wood.png",
+ "defaultColour": "linear-gradient(90deg, RGBA(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
+ "CanChangeColour": true,
+ "CustomCSS": ":root {\n  --text-color: black !important;\n}\n\n.MessageList__MessageList___3DxoC,\n#menu,\n.border {\n  background-image: var(--custom-image-0) !important;\n  background-size: 200px !important;\n  background-wrap: repeat !important;\n}\n\n#background {\n  display: none;\n}\n\nbody {\n  background-image: var(--custom-image-0) !important;\n  background-size: 500px !important;\n  background-wrap: repeat !important;\n}\n\n#container {\n  background: rgba(0, 0, 0, 0.7) !important;\n}\n\n.Label__Label___bsFJd,\n#title {\n  background: rgba(0,0,0,0.5);\n}\n\n.shortcut,\n#upcoming-items,\n#notice-container,\n#day-container {\n  background: rgba(0,0,0,0.6);\n}\n\n.dummynotice,\n#day-container > div {\n  background: transparent;\n}",
+ "hideThemeName": false,
+ "images": [
+  {
+   "id": "bird.png",
+   "variableName": "custom-image-0"
+  }
+ ]
+}

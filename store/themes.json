@@ -20,6 +20,13 @@
       "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/bb0aaf40-55ef-40f7-bc64-93b67ef96c01/images/banner.webp",
       "marqueeImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/bb0aaf40-55ef-40f7-bc64-93b67ef96c01/images/marquee.webp",
       "id": "bb0aaf40-55ef-40f7-bc64-93b67ef96c01"
+    },
+    {
+      "name": "Coral",
+      "description": "A simple, coral-inspired theme with no obtrusive elements, designed to invoke a feeling of warmth, optimism, or joy.",
+      "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/tree/main/store/themes/776980149664350248-930c5f7804c8af5973fe/images/banner.webp",
+      "marqueeImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/tree/main/store/themes/776980149664350248-930c5f7804c8af5973fe/images/marquee.webp",
+      "id": "776980149664350248-930c5f7804c8af5973fe"
     }
   ]
 }

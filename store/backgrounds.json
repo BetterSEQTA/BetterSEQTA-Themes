@@ -1241,6 +1241,222 @@
       "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-139.webp",
       "name": "night, minecraft, dog, bed, camp, game",
       "featured": true
+    },
+    {
+      "id": "image-140", ### START HERE
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-140.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-140.webp",
+      "name": "water, ocean, waves, sunset",
+      "featured": false
+    },
+    {
+      "id": "image-141",
+      "category": "Abstract",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-141.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-141.webp",
+      "name": "abstract, yellow, white, blue, gradient",
+      "featured": false
+    },
+    {
+      "id": "image-142",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-142.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-142.webp",
+      "name": "cityscape, buildings, skyscrapers, skyline, sunset",
+      "featured": false
+    },
+    {
+      "id": "image-143",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-143.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-143.webp",
+      "name": "water, ocean, waves, rocks, foam",
+      "featured": false
+    },
+    {
+      "id": "image-144",
+      "category": "Animals",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-144.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-144.webp",
+      "name": "deer, nature, forest, trees, branches",
+      "featured": false
+    },
+    {
+      "id": "image-145",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-145.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-145.webp",
+      "name": "moon, tree, sunset, nature, barren",
+      "featured": false
+    },
+    {
+      "id": "image-146",
+      "category": "Animals",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-146.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-146.webp",
+      "name": "bird, branch, nature, green",
+      "featured": false
+    },
+    {
+      "id": "image-147",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-147.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-147.webp",
+      "name": "water, reflection, lake, tree, sunset",
+      "featured": false
+    },
+    {
+      "id": "image-148",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-148.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-148.webp",
+      "name": "water, ocean, sunrise, blue, orange, sky, moon",
+      "featured": false
+    },
+    {
+      "id": "image-149",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-149.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-149.webp",
+      "name": "girl, forest, leaves, bushes, nature, green",
+      "featured": false
+    },
+    {
+      "id": "image-150",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-150.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-150.webp",
+      "name": "sunrise, ocean, beach, sand",
+      "featured": false
+    },
+    {
+      "id": "image-151",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-151.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-151.webp",
+      "name": "mountains, forest, trees, nature, green, rocky",
+      "featured": false
+    },
+    {
+      "id": "image-152",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-152.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-152.webp",
+      "name": "leaves, white, plain, simple, green",
+      "featured": false
+    },
+    {
+      "id": "image-153",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-153.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-153.webp",
+      "name": "pexels-nicole-avagliano-1132392-2236713",
+      "featured": false
+    },
+    {
+      "id": "image-154",
+      "category": "Animals",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-154.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-154.webp",
+      "name": "pexels-optical-chemist-340351297-30206677",
+      "featured": false
+    },
+    {
+      "id": "image-155",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-155.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-155.webp",
+      "name": "pexels-optical-chemist-340351297-31284697",
+      "featured": false
+    },
+    {
+      "id": "image-156",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-156.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-156.webp",
+      "name": "pexels-pixabay-268533",
+      "featured": false
+    },
+    {
+      "id": "image-157",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-157.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-157.webp",
+      "name": "pexels-quang-nguyen-vinh-222549-2131614",
+      "featured": false
+    },
+    {
+      "id": "image-158",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-158.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-158.webp",
+      "name": "pexels-scottwebb-1048039",
+      "featured": false
+    },
+    {
+      "id": "image-159",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-159.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-159.webp",
+      "name": "pexels-simon73-1323550",
+      "featured": false
+    },
+    {
+      "id": "image-160",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-160.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-160.webp",
+      "name": "pexels-souvenirpixels-1519088",
+      "featured": false
+    },
+    {
+      "id": "image-161",
+      "category": "Plants",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-161.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-161.webp",
+      "name": "pexels-suissounet-2101187",
+      "featured": false
+    },
+    {
+      "id": "image-162",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-162.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-162.webp",
+      "name": "pexels-thatguycraig000-1563356",
+      "featured": false
+    },
+    {
+      "id": "image-163",
+      "category": "Scenery",
+      "type": "image",
+      "lowResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/thumb/image-163.webp",
+      "highResUrl": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/backgrounds/images/full/image-163.webp",
+      "name": "pexels-therato-1933239",
+      "featured": false
     }
   ]
 }

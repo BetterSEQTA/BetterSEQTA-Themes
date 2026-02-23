@@ -27,6 +27,13 @@
       "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/776980149664350248-930c5f7804c8af5973fe/images/banner.webp",
       "marqueeImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/776980149664350248-930c5f7804c8af5973fe/images/marquee.webp",
       "id": "776980149664350248-930c5f7804c8af5973fe"
+    },
+    {
+      "name": "Retro CRT",
+      "description": "A retro CRT/terminal aesthetic with amber phosphor glow, monospace typography, and subtle scanlines—perfect for nostalgic vibes!",
+      "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/02c163aa-b566-4c38-95c7-47dc796f4215/images/banner.webp",
+      "marqueeImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/02c163aa-b566-4c38-95c7-47dc796f4215/images/marquee.webp",
+      "id": "02c163aa-b566-4c38-95c7-47dc796f4215"
     }
   ]
 }

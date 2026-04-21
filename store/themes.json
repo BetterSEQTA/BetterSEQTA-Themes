@@ -41,6 +41,13 @@
       "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/02c163aa-b566-4c38-95c7-47dc796f4215/images/banner.webp",
       "marqueeImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/02c163aa-b566-4c38-95c7-47dc796f4215/images/marquee.webp",
       "id": "02c163aa-b566-4c38-95c7-47dc796f4215"
+    },
+    {
+      "name": "Arctic Aurora",
+      "description": "Calm polar-night backgrounds with icy surfaces and aurora-inspired accents—easy on the eyes for long study sessions.",
+      "coverImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/8df22546-e3dd-4354-8f7b-5337b0ef2efb/images/banner.webp",
+      "marqueeImage": "https://raw.githubusercontent.com/BetterSEQTA/BetterSEQTA-Themes/main/store/themes/8df22546-e3dd-4354-8f7b-5337b0ef2efb/images/marquee.webp",
+      "id": "8df22546-e3dd-4354-8f7b-5337b0ef2efb"
     }
   ]
 }
